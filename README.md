@@ -2,6 +2,10 @@
 
 ![](images/Cover_book.png)
 
+❤ [Donación PayPal](hhttps://www.paypal.com/donate/?hosted_button_id=XVFHQVKGHPBBCttp:// "Donación PayPal")
+
+🛒📘 [Comprar Libro](https://www.lulu.com/shop/ariel-alejandro-wagner/el-arte-del-desarrollo-empresarial-con-net-core/ebook/product-e75nr9j.html?page=1&fbclid=IwY2xjawH_hZRleHRuA2FlbQIxMAABHdKsTKXqd0BOPzYxhAfKK02qUfqmYgS2QFngievJcCq1piDEdV40Kw3TDQ_aem_uTgcvHLbump1_ljh9ZxLsg&pageSize=4&source=user_about----------------------10ff0a47ac49---------------------- "Comprar Libro")
+
 # Prólogo
 
 El mundo del desarrollo de software ha evolucionado rápidamente en los últimos años, y en medio de esta revolución tecnológica, Microsoft .NET Core ha emergido como uno de los pilares fundamentales para la creación de soluciones empresariales de alto rendimiento y escalabilidad. Este libro nace con el propósito de llenar un vacío en la literatura técnica actual. El enfoque principal es la de proporcionar una guía avanzada que, no solo cubra los fundamentos de Microsoft .NET Core, sino que ofrezca una profundización práctica y técnica para profesionales que buscan llevar a cabo todas sus habilidades a un siguiente nivel.
