@@ -2,7 +2,7 @@
 
 ![](images/Cover_book.png)
 
-❤ [Donación PayPal](https://www.paypal.com/donate/?hosted_button_id=XVFHQVKGHPBBCttp:// "Donación PayPal")
+❤ [Donar PayPal](https://www.paypal.com/donate/?hosted_button_id=XVFHQVKGHPBBC "Donar PayPal")
 
 🛒📘 [Comprar Libro](https://www.lulu.com/shop/ariel-alejandro-wagner/el-arte-del-desarrollo-empresarial-con-net-core/ebook/product-e75nr9j.html?page=1&fbclid=IwY2xjawH_hZRleHRuA2FlbQIxMAABHdKsTKXqd0BOPzYxhAfKK02qUfqmYgS2QFngievJcCq1piDEdV40Kw3TDQ_aem_uTgcvHLbump1_ljh9ZxLsg&pageSize=4&source=user_about----------------------10ff0a47ac49---------------------- "Comprar Libro")
 
